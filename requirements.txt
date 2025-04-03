@@ -1,0 +1,4 @@
+psycopg2~=2.9.10
+python-telegram-bot~=22.0
+pydantic-settings~=2.8.1
+SQLAlchemy~=2.0.40
