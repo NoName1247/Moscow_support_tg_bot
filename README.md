@@ -6,7 +6,7 @@ ____
     Python
 ____
 ## Установка
-### Linux
+### ➖ Linux
 #### 1. Скопируйте файлы из репозитория в отдельную папку:
     git clone https://github.com/Tribor0/Moscow_support.git
 #### 2. Создайте виртуальное окружение и активируйте его:
@@ -17,7 +17,7 @@ ____
 #### 5. Установите свои значения в файле .env
 #### 6. Запустите проект
     python3 main.py
-### Windows 
+### ➖ Windows 
 #### 1. Скопируйте файлы из репозитория в отдельную папку:
     git clone https://github.com/Tribor0/Moscow_support.git
 #### 2. Создайте виртуальное окружение и активируйте его:
@@ -30,8 +30,9 @@ ____
     python.exe main.py
 ____
 ## Зависимости
-### Python
-### Библиотеки Python
+### ➖ Python
+### ➖ PostgreSQL
+### ➖ Библиотеки Python
     psycopg2~=2.9.10
     python-telegram-bot~=22.0
     pydantic-settings~=2.8.1
