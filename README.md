@@ -13,8 +13,8 @@ ____
     python3 -m venv venv && source venv/bin/activate
 #### 3. Установите зависимости:
     pip3 install -r requirements.txt
-#### 4. Установите PostgreSQL и импортироуйте database.sql
-#### 5. Установите свои значения в файле .env:
+#### 4. Установите PostgreSQL и импортироуйте таблицы из файла database.sql
+#### 5. Установите свои значения в файле .env
 #### 6. Запустите проект
     python3 main.py
 ### Windows 
@@ -24,8 +24,8 @@ ____
     python.exe -m venv venv && source venv/bin/activate
 #### 3. Установите зависимости:
     pip install -r requirements.txt
-#### 4. Установите PostgreSQL и импортироуйте database.sql
-#### 5. Установите свои значения в файле .env:
+#### 4. Установите PostgreSQL и импортироуйте таблицы из файла database.sql
+#### 5. Установите свои значения в файле .env
 #### 6. Запустите проект
     python.exe main.py
 ____
