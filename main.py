@@ -13,7 +13,7 @@ from config import Settings
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = "7886432045:AAGHhX3NHrg91BpoHV3mZFDi2ffoY_6yHFc"
+BOT_TOKEN = "Your_bot_id"
 CHAT_ID = -1002451009334
 
 
